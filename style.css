@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+}
+
+.container {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  border-radius: 50%;
+  left: 0px;
+  top: 0px; 
+  background-color: blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+  color: #fff;
+  font-size: 35px;
+  cursor: pointer;
+  user-select: none;
+}
